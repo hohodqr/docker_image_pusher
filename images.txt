@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2023-04-28T18-11-17Z
+docker.io/bitnami/minio-client:2024.6.12-debian-12-r0
