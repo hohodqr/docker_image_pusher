@@ -1,1 +1,1 @@
-busybox:stable
+ubuntu:latest
