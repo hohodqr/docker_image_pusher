@@ -1,1 +1,1 @@
-ubuntu:latest
+centos:centos7.9.2009
