@@ -1,1 +1,1 @@
-docker pull canal/canal-server:latest
+canal/canal-server:latest
