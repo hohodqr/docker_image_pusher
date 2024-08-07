@@ -1,1 +1,1 @@
-canal/canal-server:latest
+openjdk:8
