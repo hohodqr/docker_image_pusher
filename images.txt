@@ -1,2 +1,2 @@
-centos:latest
+--platform=arm64 redis:5.0.14
 
