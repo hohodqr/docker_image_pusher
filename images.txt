@@ -1,4 +1,4 @@
---platform=arm64/v8 rabbitmq:management
+arm64v8/rabbitmq:management
 --platform=arm64/v8 quay.io/minio/minio
 
 
