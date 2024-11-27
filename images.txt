@@ -1,6 +1,5 @@
 --platform=linux/arm64 arm64v8/rabbitmq:management
---p--platform=linux/arm64 quay.io/minio/minio
-
+--platform=linux/arm64 quay.io/minio/minio
 
 
 
