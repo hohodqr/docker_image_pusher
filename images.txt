@@ -1,3 +1,8 @@
---platform=arm64/v8 elasticsearch:7.15.2
---platform=arm64/v8 elasticsearch:7.23.2
+--platform=arm64/v8 rabbitmq:management
+--platform=arm64/v8 quay.io/minio/minio
+
+
+
+
+
 
