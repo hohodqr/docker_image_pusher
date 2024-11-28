@@ -1,4 +1,4 @@
---platform=linux/arm64 ubuntu:lastest
+--platform=linux/arm64 ubuntu
 
 
 
