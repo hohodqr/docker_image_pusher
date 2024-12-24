@@ -1,4 +1,4 @@
-eipwork/kuboard:v3.5.0.3
+docker pull eipwork/kuboard:v3.4.1.0
 
 
 
