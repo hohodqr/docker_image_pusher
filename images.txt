@@ -1,4 +1,4 @@
-jdk:8u391
+nacos/nacos-server:v2.4.3
 
 
 
