@@ -1,5 +1,5 @@
 --platform=linux/arm/v5 python:3.10.16
---platform=linux/arm64 docker pull bitnami/python:3.10.16
+--platform=linux/arm64  bitnami/python:3.10.16
 
 
 
