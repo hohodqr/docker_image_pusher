@@ -1,5 +1,6 @@
---platform=linux/arm/v5 python:3.10.16
---platform=linux/arm64  bitnami/python:3.10.16
+#--platform=linux/arm/v5 python:3.10.16
+#--platform=linux/arm64  bitnami/python:3.10.16
+docker.elastic.co/eck/eck-operator:3.0.0
 
 
 
