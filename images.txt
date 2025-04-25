@@ -1,5 +1,4 @@
---platform=linux/armv8 rancher/local-path-provisioner:v0.0.31
---platform=linux/armv8 busybox
+bitnami/redis-sentinel:6.2.6
 
 
 
