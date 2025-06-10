@@ -1,4 +1,4 @@
-marketplace.gcr.io/google/rabbitmq3
+launcher.gcr.io/google/rabbitmq3
 
 
 
