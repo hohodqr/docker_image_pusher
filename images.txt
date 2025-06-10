@@ -1,4 +1,4 @@
-bitnami/redis-sentinel:6.2.6
+marketplace.gcr.io/google/rabbitmq3
 
 
 
