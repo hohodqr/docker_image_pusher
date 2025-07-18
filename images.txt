@@ -1,4 +1,4 @@
-launcher.gcr.io/google/rabbitmq3
+elasticsearch:7.17.23
 
 
 
