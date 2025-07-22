@@ -1,5 +1,4 @@
---platform=arm64  elasticsearch:7.17.23
---platform=arm64  nacos/nacos-server:2.0.2
+--platform=arm64 nacos/nacos-server:2.0.4-slim
 
 
 
