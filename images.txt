@@ -1,4 +1,4 @@
-elasticsearch:7.17.23
+--platform=arm64 nginx:latest
 
 
 
