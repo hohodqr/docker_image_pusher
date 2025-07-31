@@ -1,4 +1,4 @@
-apache/skywalking-oap-server
-
+apache/skywalking-java-agent:9.4.0-jdk8
+apache/skywalking-ui
 
 
