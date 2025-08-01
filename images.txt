@@ -1,4 +1,2 @@
-apache/skywalking-java-agent:9.4.0-java8
-apache/skywalking-ui
-
+grafana/grafana
 
