@@ -1,1 +1,5 @@
-bitnami/alertmanager:latest
+carlosedp/node_exporter:latest
+quay.io/ricardbejarano/mysqld_exporter:latest
+justwatch/elasticsearch_exporter:latest
+oliver006/redis_exporter:latest
+nginx/nginx-prometheus-exporter:latest
