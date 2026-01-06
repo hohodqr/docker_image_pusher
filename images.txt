@@ -1,1 +1,2 @@
-quay.io/prometheuscommunity/elasticsearch-exporter:latest
+mysql:8.0.44 --platform=linux/arm64/v8
+mysql:8.0.44
