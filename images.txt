@@ -1,2 +1,2 @@
---platform=linux/arm64/v8 openjdk:8u342
-openjdk:8u342
+registry.k8s.ioingress-nginxkube-webhook-certgenv1.6.7
+registry.k8s.ioingress-nginxcontrollerv1.14.3
