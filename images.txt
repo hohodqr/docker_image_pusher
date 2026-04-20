@@ -1,2 +1,1 @@
-percona/percona-xtrabackup:8.0.35-31
-percona/percona-xtrabackup:8.0.35-31-aarch64
+kibana:7.17.28
