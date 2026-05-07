@@ -1,1 +1,3 @@
---platform=linux/arm64/v8 rabbitmq:3.13.7-management
+--platform=linux/arm64/v8 rabbitmq:4.3.0-management
+rabbitmq:4.3.0-management
+
