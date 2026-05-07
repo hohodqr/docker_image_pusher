@@ -1,1 +1,1 @@
-kibana:7.17.23
+--platform=linux/arm64/v8 rabbitmq:3.13.7-management
