@@ -1,2 +1,4 @@
-registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-v18.11.2
+maven:3.8.6-openjdk-17
+docker:24.0.5
+docker:24.0.5-dind
 
