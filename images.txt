@@ -1,2 +1,2 @@
-cosyvoice:v1.0
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 
