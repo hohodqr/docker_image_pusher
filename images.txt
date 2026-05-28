@@ -1,2 +1,2 @@
-canal/canal-server:v1.1.8-arm64
+elasticsearch:7.17.28
 
