@@ -1,1 +1,1 @@
-elastic/filebeat:7.17.28
+golang:1.20
