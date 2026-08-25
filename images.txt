@@ -1,3 +1,1 @@
---platform=linux/arm64 nvidia/cuda:12.8.2-runtime-ubuntu22.04
---platform=linux/arm64 nvidia/cuda:12.8.2-base-ubuntu22.04
---platform=linux/arm64 nvidia/cuda:12.8.2-devel-ubuntu22.04
+vllm/vllm-openai:v0.27.1-x86_64-cu129-ubuntu2404
