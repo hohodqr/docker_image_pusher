@@ -1,1 +1,1 @@
-python:3.11.16
+rabbitmq:4.3.5-management
