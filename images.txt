@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 rabbitmq:4.3.5-management
+--platform=linux/arm64 v0.29.0-cu129
