@@ -1,2 +1,1 @@
---platform=linux/arm64  vllm/vllm-omni:v0.28.0
-vllm/vllm-omni:v0.28.0
+docker.io/calico/kube-controllers:v3.27.5
